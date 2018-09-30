@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/start_road"
+        android:title="출발지 설정"
+        />
+    <item
+        android:id="@+id/finish_road"
+        android:title="목적지 설정"/>
+    <item
+        android:title="경로 삭제"
+        android:id="@+id/delete_road"/>
+
+</menu>
